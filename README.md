@@ -1,7 +1,11 @@
 # GEMINITALK - ChatBot com Reconhecimento de Voz e Inteligência Artificial
 
 ## Descrição
-Este projeto consiste em um ChatBot interativo que pode conversar com você através da voz. Ele pode entender e responder ao que você diz usando inteligência artificial.
+GEMINITALK - CONVERSE COM O GEMINI SEM USAR AS MÃOS!
+
+O GeminiTalk responde em português e inglês sem precisar digitar nada. Basta falar com ele pelo microfone! E não se preocupe em perder uma resposta - o GeminiTalk emite notificações sonoras para manter você engajado durante a conversa!
+
+Para quem deseja praticar e aprimorar suas habilidades linguísticas ou apenas desabafar, o GeminiTalk será seu companheiro nessa jornada.
 
 ## Funcionalidades
 - Reconhecimento de voz: O ChatBot pode entender comandos de voz do usuário.
